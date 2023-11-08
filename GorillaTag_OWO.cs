@@ -9,7 +9,7 @@ using HarmonyLib;
 
 using MyOWOVest;
 
-[assembly: MelonInfo(typeof(GorillaTag_OWO.GorillaTag_OWO), "GorillaTag_OWO", "1.0.0", "Florian Fahrenberger")]
+[assembly: MelonInfo(typeof(GorillaTag_OWO.GorillaTag_OWO), "GorillaTag_OWO", "1.0.1", "Florian Fahrenberger")]
 [assembly: MelonGame("Another Axiom", "Gorilla Tag")]
 
 
